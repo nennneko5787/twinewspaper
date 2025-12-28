@@ -1,0 +1,13 @@
+@page {
+  margin: 0mm 0mm;
+  size: A2 portrait;
+}
+
+body {
+  padding: 0;
+
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+
+  overflow: hidden;
+}
